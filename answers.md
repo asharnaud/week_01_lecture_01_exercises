@@ -1,47 +1,49 @@
 Answers are here:
-1. a
 
-2. b
+1. a) ~
 
-3. b
+2. b) /
 
-4. a
+3. b) The end of the path. 
 
-5. b
+4. a) The filename starts with a .
 
-6. a
+5. b) ../
 
-7. a
+6. a) Absolute
 
-8. a
+7. a) Absolute
 
-9. c
+8. a) ~
 
-10. a (rm -rf)
+9. c) touch
 
-11. c
+10. a) rm 
 
-12. d
+11. c) cp
 
-13. b
+12. d) mv 
 
-14. d
+13. b) git init
 
-15. c
+14. d) All of the above. 
 
-16. c
+15. c) git commit
 
-17. d
+16. c) git log
 
-18. a
+17. d) .gitignore
 
-19. c
+18. a) The master branch
 
-20. d
+19. c) git checkout
 
-21. a
+20. d) A conflict is created that must be resovled
+by the developer. 
 
-22. d
+21. a) git remote add
 
-23. a 
+22. d) git push 
+
+23. a) git pull  
 
